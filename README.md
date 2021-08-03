@@ -7,7 +7,7 @@
 
 
 
-### OPEN LINK ON MOBILE
+### OPEN LINK FOR SELFIE 📸
 
 https://neekhild.github.io/Camera-app/
 
